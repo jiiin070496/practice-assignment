@@ -11,12 +11,6 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.ObjectInputStream;
 
-/*
-try - 실행할 코드
-catch - 발생하는 Exception 처리할 부분
-finally - 반드시 실행되는 부분 
-*/
-
 public class FIleIO {
 	public void testFile() {
 		
